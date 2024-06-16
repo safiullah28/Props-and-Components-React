@@ -6,9 +6,6 @@ function App() {
     <div>
       <h1>{namee}</h1>
       <Props name="Safiullah" age={21} />
-      <Props name="Fatim Jamshaid" age={24} />
-      <Props name="Fizza" age={52} />
-      <Props name="Aliza Khan"/>
     </div>
   );
 }
